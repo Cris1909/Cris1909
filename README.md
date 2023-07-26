@@ -1,11 +1,12 @@
 <h1 align="center">Hi , I'm Cris Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
- <h3 align="left">About me</h3>
-- 🔭 I’m currently working on https://kumosoft.co
+ <h3 align="left">About me</h3> 
 
+- 🔭  I’m currently working on [Kumosoft](https://kumosoft.co/)
+ 
 - 🌱 I’m currently learning **NestJS**
 
-- 👯 I’m looking to collaborate on [kumonera](https://kumonera.com/)
+- 👯 I’m looking to collaborate on [Kumonera](https://kumonera.com/)
 
 - 💬 Ask me about **html, css, javascript, react, react-native, node**
 
