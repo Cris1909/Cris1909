@@ -1,4 +1,8 @@
 <h1 align="center">Hi , I'm Cris Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <h3>A passionate frontend developer from Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="colombia flag" width="30" height="20"/></h3>
+</div>
+
 <br>
  <h3 align="left">About me</h3> 
 
