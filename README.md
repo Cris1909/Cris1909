@@ -8,7 +8,7 @@
 
 - 🔭  I’m currently working on [Kumosoft](https://kumosoft.co/)
  
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [Kumonera](https://kumonera.com/)
 
