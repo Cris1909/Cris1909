@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Kumonera](https://kumonera.com/)
 
-- 💬 Ask me about **html, css, javascript, react, react-native, node**
+- 💬 Ask me about **html, css, javascript, react, react-native, node, nestjs, mongodb**
 
 - 📫 How to reach me **crisvera1909@gmail.com**
 
