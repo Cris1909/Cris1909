@@ -8,7 +8,7 @@
 
 - 🔭  I’m currently working on [Kumosoft](https://kumosoft.co/)
  
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on [Kumonera](https://kumonera.com/)
 
@@ -62,3 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+<hr />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cris1909&theme=shadow-purple&border_radius=20&exclude_days=Sun)](https://git.io/streak-stats)
