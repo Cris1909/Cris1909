@@ -10,7 +10,7 @@
  
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Kumonera](https://kumonera.com/)
+- 👯 I’m working on [Kumonera](https://kumonera.com/)
 
 - 💬 Ask me about **html, css, javascript, react, react-native, node, nestjs, mongodb**
 
