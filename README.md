@@ -7,8 +7,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at [Kumosoft](https://kumosoft.co/)
-- 👯 Collaborating on [Kumo IA](https://kumoia.com/en)
 - 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, Node.js, NestJS, MongoDB**
 - 📫 Reach me at: **crisvera1909@gmail.com**
 
