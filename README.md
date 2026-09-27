@@ -46,7 +46,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cris1909&theme=shadow-purple&border_radius=20&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cris1909&theme=shadow-purple&border_radius=20&exclude_days=Sun,Sat)](https://git.io/streak-stats)
 
 ---
 
